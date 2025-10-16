@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>
-				David Kenny-Vaughan | CV
-		</title>
+		<title>David Kenny-Vaughan | CV</title>
 		<link rel="stylesheet" type="text/css" href="stylesheet/style.css"/>
 	</head>
 		<h1><span>David Kenny-Vaughan | Curriculum Vitae </span></h1>
