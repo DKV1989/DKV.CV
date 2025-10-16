@@ -1,5 +1,3 @@
-# DKV.CV
-David Kenny-Vaughan CV
 <!DOCTYPE html>
 <html>
 	<head>
