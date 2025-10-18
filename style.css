@@ -1,6 +1,27 @@
 head{
 	font-family: "Arial", Helvetica, sans-serif;
 }
+@media(min-width:768px){
+ .container{
+   display:flex;
+ }
+.mainDetails{
+	display: flex;
+	width: 50%;
+	Height: 300px;
+	Order: 1;
+	
+ .image{
+	   	  
+	 display: flex;
+	 width: 50%;
+	 height: 300px;
+     object-fit: fill;
+	 clip-path: circle(50%);
+	 Order: 2
+	 }
+}
+
 
 .links{
 font-size: 25px;
@@ -33,7 +54,7 @@ h3, h2{
 	
  .firstLine{
  	background:#4a855a;
-    	width: 300px;
+    	width: 400px;
     	height: 40px;
     	border-radius:25px;
     	margin:5px;
@@ -47,7 +68,7 @@ h3, h2{
  .secondLine{
    	  
       	background:#4a855a;
-      	width: 300px;
+      	width: 400px;
       	height: 40px;
       	border-radius:25px;
       	margin:5px;
@@ -62,7 +83,7 @@ h3, h2{
  .thirdLine{
 	  
       	background-color:#4a855a;
-      	width: 300px;
+      	width: 400px;
       	height: 40px;
       	border-radius:25px;      	
       	margin:5px;
@@ -74,13 +95,3 @@ h3, h2{
     	Order:2;
  	}
   
- .image{
-	   	  
-	 display: flex;
-	 width: 20%;
-	 height: 20%;
-     object-fit: fill;
-	 clip-path: circle(50%);
-	 Order: 1;
-	 }
-}
