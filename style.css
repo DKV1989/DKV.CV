@@ -1,10 +1,10 @@
 .header{
 	background-color:#efefe9;
 	weight: 100px;
-	width:100%;
+	width: 100%;
 	text-align: center;
 	justify-content:center;
-	font-color;#4e6666;
+	font-color: #4e6666;
 	
 	
 	}
@@ -38,8 +38,7 @@ body{
 	background-color: #efefe9:;
 	
 	}
-	}
-   
+} 
    
    .tagline{
    display:flex;
