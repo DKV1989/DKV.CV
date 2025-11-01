@@ -1,97 +1,115 @@
-body{
-     Background-color:#efefe9;
-     color:#585959;
-     font-family: "Arial", Helvetica, sans-serif;
-     
+body {
+	Background-color: #efefe9;
+	color: #585959;
+	font-family: "Arial", Helvetica, sans-serif;
 
-     
-     
-}
+	.topCarousel {
+		height: 200px;
+	}
 
-.carousel-inner {
-     width:100%;
-     height:360px;
- }
- 
 
- .show{
-  	background-color: #efefe9;
-  	height:auto;
-  	text-align:left;
-  	margin-top:10px;
-  	border-radius:12px;
-  	 	
-  }
- .image img{
-  	height: 90%;
-  	width: 90%;
-  	border-radius:6px;
-  	}
-  	
-  .edImage img{
-  height: 90%;
-    	width: 90%;
-  	border-radius:6px;
-  	}
-  	
-   	
-  .topCarousel{
-  	border-radius:5px;
-  	Height:300px;
-  	}
-   
- .head{
-   	text-align:center;
-   	border-radius:6px;
-  	 	
-  }
-  
- 
-  
-  .topBar{
-  	Background-color:#efefe9;
-  	text-align:left;
-  	height:50px;
-  	border-radius:6px;
-  	
-  	}
-  	
-  .row{
-  	
-  	height:auto;
-  	margin-top:25px;
-  	text-align:center;
-  	border-radius:6px;
-  	justify-content:space-between;	
-  		 	
-  }
-  
-  p,ul{
-  	font-size:15px;
-  	color: #585959;
-  	text-align:left;
-  	}
-  
-   h1{
-   	font-weight:bold;
-   	text-align:center;
-   	color:#4e6666;
-   	}
-   
-   
-   h2{
-   	font-weight:bold;
-   	color: #4e6666;
-   	text-align:center;
-   	
-   	}
-   h3{
-   	font-size:20px;
-   	text-align:center;
-   	color:#585959;
-   	font-weight:bold;
-   	}
- 
-footer{
-	text-align:center;
+
+
+	.carousel-inner {
+		width: 100%;
+		height: 360px;
+	}
+
+
+	.show {
+		background-color: #efefe9;
+		height: auto;
+		text-align: left;
+		margin-top: 10px;
+		border-radius: 12px;
+
+	}
+
+	.image img {
+		height: 90%;
+		width: 90%;
+		border-radius: 6px;
+	}
+
+	.healthImage img{
+		height: 90%;
+		width: 80%;
+		border-radius: 6px;
+	}
+
+	.edImage img {
+		height: 90%;
+		width: 90%;
+		border-radius: 6px;
+	}
+
+
+	.topCarousel {
+		border-radius: 5px;
+		Height: 300px;
+	}
+
+	.head {
+		text-align: center;
+		border-radius: 6px;
+
+	}
+
+
+
+	.topBar {
+		Background-color: #efefe9;
+		text-align: left;
+		height: 50px;
+		border-radius: 6px;
+
+	}
+
+	.row {
+
+		height: auto;
+		margin-top: 25px;
+		text-align: center;
+		border-radius: 6px;
+		justify-content: space-between;
+
+	}
+	.previousRoles p{
+		text-align: center;
+	}
+
+	.currentRole{
+		text-align: left;
+	}
+	ul {
+		font-size: 15px;
+		color: #585959;
+		text-align: left;
+	}
+
+	h1 {
+		font-weight: bold;
+		text-align: center;
+		color: #4e6666;
+	}
+
+
+	h2 {
+		font-weight: bold;
+		color: #4e6666;
+		text-align: center;
+
+	}
+
+	h3 {
+		font-size: 20px;
+		text-align: center;
+		color: #585959;
+		font-weight: bold;
+	}
+
+	footer {
+		text-align: center;
+		font-size: 16px;
+		font-weight: bold;
 	}
