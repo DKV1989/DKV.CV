@@ -113,3 +113,55 @@ body {
 		font-size: 16px;
 		font-weight: bold;
 	}
+	.row1{
+		text-align:center;
+		height:300px;
+		justify-content: center;
+	}
+	
+	.row1 img{
+		width:200px;
+		height:200px;
+		justify-content:center;
+		}
+		
+	.row2{
+		text-align:center;
+			height:150px;
+			justify-content: center;
+	}
+	
+	
+	
+	
+		
+		
+	.button{	
+		width:150px;
+		height:50px;
+		color:white;
+		border-radius:6px;
+		background-color: #585959;
+		font-weight:bold;
+		}
+		
+	.button:hover{
+		background-color:#374d32;
+		}
+	body{
+		background-color:black;
+		font-family: Arial, Helvetica, sans-serif;
+		
+	}
+	
+	#placeholder{
+	
+		text-align:center;
+		}
+	.flush-collapseOne:hover{
+		background-color:black;
+		}
+		
+	.row1{
+	margin-top:50px;
+	}
